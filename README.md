@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am pursuing BCA <br>learning python language<br>currently working on project
-
+job portal
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthbolke81@gmail.com) 
