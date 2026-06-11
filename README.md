@@ -1,18 +1,53 @@
-# 💫 About Me:
-I am pursuing BCA <br>learning python language<br>currently working on project
-job portal
+# Hi, I'm Parth Bolke 👋
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthbolke81@gmail.com) 
+**Data Analytics | Python | Power BI | SQL**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ogparth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ogparth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogparth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+BCA Graduate from Mumbai passionate about turning raw data into actionable insights.
+Currently building projects in data analysis, dashboards, and database management.
+
+## About me 💫
+
+- 🎓 BCA Graduate — Vikas College of Arts, Science and Commerce, Mumbai (2026)
+- 💼 Data Science & Analytics Intern @ Imarticus Learning — A+ Grade, 120 hrs
+- 📊 I love building dashboards and finding stories hidden in data
+- 🔭 Currently working on: end-to-end data analytics projects
+- 🌱 Learning: pandas , numpy , Learning fundamentals
+- 📫 Reach me at: parthbolke@gmail.com
+
+## 🛠️ Tech stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+
+**Skills**
+`Data Cleaning` `Data Visualization` `Dashboard Development` `Database Management`
+
+## 📌 Featured project
+
+### 📊 Data Analytics Dashboard
+> End-to-end analytics pipeline — from raw data to interactive business insights
+
+- Cleaned and preprocessed datasets using **Python (Pandas, NumPy)**
+- Built interactive dashboards in **Power BI** for stakeholder reporting
+- Queried and managed structured data with **MySQL**
+- Delivered actionable insights through automated reporting
+
+## 📈 GitHub stats
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogparth&show_icons=true&theme=default&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ogparth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthbolke)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parthbolke@gmail.com)
