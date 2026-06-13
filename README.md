@@ -50,7 +50,6 @@ Currently building projects in data analysis, dashboards, and database managemen
 - Built a SQL VIEW (`Order_Details`) for simplified reporting on order, customer, and seller data
 - Analyzed payment data to identify unpaid orders, high-value transactions, and seasonal trends
 
-🔗 [View Project](#) <!-- Add your repo link here -->
 
 ## 📈 GitHub stats
 
