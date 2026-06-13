@@ -41,6 +41,17 @@ Currently building projects in data analysis, dashboards, and database managemen
 - Queried and managed structured data with **MySQL**
 - Delivered actionable insights through automated reporting
 
+### 🗄️ Online Retail Database Management System
+> Normalized relational database system for a full-scale e-commerce platform
+
+- Designed and implemented **15+ tables** covering Users, Products, Orders, Payments, and After-Sales Service
+- Modeled complex entities like Buyers, Sellers, Stores, BankCards, and Service Points with proper **primary/foreign key constraints**
+- Wrote **15+ complex SQL queries** including JOINs, subqueries, aggregations, and views for business insights
+- Built a SQL VIEW (`Order_Details`) for simplified reporting on order, customer, and seller data
+- Analyzed payment data to identify unpaid orders, high-value transactions, and seasonal trends
+
+🔗 [View Project](#) <!-- Add your repo link here -->
+
 ## 📈 GitHub stats
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogparth&show_icons=true&theme=default&hide_border=true)
